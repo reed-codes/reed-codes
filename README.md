@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reed-codes
-- 👀 I’m interested in Software and Cloud engineering
+- 👀 I’m interested in Software engineering
 - 🌱 I’m currently mastering fullstack software development
 - 💞️ I’m looking to collaborate on projects that aim to advance mankind's technological capabilities whilst having a positive impact on society 
 - 📫 How to reach me [ Linkedin => https://www.linkedin.com/in/reedemer ]
