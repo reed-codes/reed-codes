@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @reed-codes
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently mastering fullstack software development
-- 💞️ I’m looking to collaborate on projects that aim to advance mankind's technological capabilities whilst having a positive impact on society 
+- 👋 Hi, I’m @reed-codes.
+- 👀 I’m interested in Software engineering, Physics, Cosmology and Art.
+- 🌱 I’m currently mastering fullstack software development.
+- 💞️ I’m looking to collaborate on projects that aim to advance mankind's technological capabilities whilst having a positive impact on society .
 - 📫 How to reach me [ Linkedin => https://www.linkedin.com/in/reedemer ]
 
 <!---
